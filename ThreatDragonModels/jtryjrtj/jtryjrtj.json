@@ -5,8 +5,23 @@
     "description": "jteyjetyjrtyj"
   },
   "detail": {
-    "contributors": [],
-    "diagrams": [],
+    "contributors": [
+      {
+        "name": "rtjtyrt"
+      }
+    ],
+    "diagrams": [
+      {
+        "title": "tryjrtj",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      },
+      {
+        "title": "tryjrtjy",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 1
+      }
+    ],
     "reviewer": "tyjt"
   }
 }
